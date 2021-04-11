@@ -6,6 +6,7 @@ Vulnerability types: XSS
 ![alt text](https://github.com/Srikanth9410/codepath_homework/blob/beb9a871ac7833d9f0d33834962941dacaf841bb/UnauthenticatedStoredXSS.gif)
 
 IDOR
+
 ![alt text](https://github.com/Srikanth9410/codepath_homework/blob/beb9a871ac7833d9f0d33834962941dacaf841bb/IDOR-Srikanth.gif)
  
 IDOR/path traversal
