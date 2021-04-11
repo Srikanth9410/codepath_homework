@@ -1,5 +1,6 @@
-# codepath_homework
-version 4.2
+# UNIT 8 WP vs Kali
+WP settings:
+WP version 4.2
 
 Vulnerability types: XSS
 
