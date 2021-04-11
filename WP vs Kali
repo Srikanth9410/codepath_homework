@@ -1,6 +1,1 @@
-Stored XSS vulnerbaility:
-   Tested in version: 4.2
-   <img src = "https://i.imgur.com/kNf5ZAl.gifv">
-IDOR:
-   <a href="https://imgur.com/U2rKJpO"><img src="https://i.imgur.com/U2rKJpO.gif" title="source: imgur.com" /></a>
-   ![alt text](https://i.imgur.com/kNf5ZAl.gifv)
+
